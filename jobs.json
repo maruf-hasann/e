@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "status": "Full Time",
+    "title": "Senior Frontend Enginner",
+    "des": "Colbrate with back-end development to improve usability",
+    "location": "Dhaka, Bangladesh",
+    "slary": "13k - 19k"
+  },
+  {
+    "id": 2,
+    "status": "Full Time",
+    "title": "Senior Frontend Enginner",
+    "des": "Colbrate with back-end development to improve usability",
+    "location": "Dhaka, Bangladesh",
+    "slary": "13k - 19k"
+  },
+  {
+    "id": 3,
+    "status": "Full Time",
+    "title": "Senior Frontend Enginner",
+    "des": "Colbrate with back-end development to improve usability",
+    "location": "Dhaka, Bangladesh",
+    "slary": "13k - 19k"
+  },
+  {
+    "id": 4,
+    "status": "Full Time",
+    "title": "Senior Frontend Enginner",
+    "des": "Colbrate with back-end development to improve usability",
+    "location": "Dhaka, Bangladesh",
+    "slary": "13k - 19k"
+  },
+  {
+    "id": 5,
+    "status": "Full Time",
+    "title": "Senior Frontend Enginner",
+    "des": "Colbrate with back-end development to improve usability",
+    "location": "Dhaka, Bangladesh",
+    "slary": "13k - 19k"
+  },
+  {
+    "id": 6,
+    "status": "Full Time",
+    "title": "Senior Frontend Enginner",
+    "des": "Colbrate with back-end development to improve usability",
+    "location": "Dhaka, Bangladesh",
+    "slary": "13k - 19k"
+  }
+]
